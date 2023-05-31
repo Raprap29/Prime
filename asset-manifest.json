@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Prime/static/css/main.0f5999f9.css",
-    "main.js": "/Prime/static/js/main.6a4bab02.js",
+    "main.js": "/Prime/static/js/main.d244717c.js",
     "static/js/787.c4e7f8f9.chunk.js": "/Prime/static/js/787.c4e7f8f9.chunk.js",
     "static/media/videoplayback.mp4": "/Prime/static/media/videoplayback.1aa771cbb3d2e1fb59fc.mp4",
     "static/media/Resident4Evil.mp4": "/Prime/static/media/Resident4Evil.9ce42e1d5469a83141ef.mp4",
@@ -34,11 +34,11 @@
     "static/media/dead-space-game-box-logo.svg": "/Prime/static/media/dead-space-game-box-logo.2e494d53c68a390be4d2.svg",
     "index.html": "/Prime/index.html",
     "main.0f5999f9.css.map": "/Prime/static/css/main.0f5999f9.css.map",
-    "main.6a4bab02.js.map": "/Prime/static/js/main.6a4bab02.js.map",
+    "main.d244717c.js.map": "/Prime/static/js/main.d244717c.js.map",
     "787.c4e7f8f9.chunk.js.map": "/Prime/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f5999f9.css",
-    "static/js/main.6a4bab02.js"
+    "static/js/main.d244717c.js"
   ]
 }
